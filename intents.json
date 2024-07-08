@@ -1,0 +1,150 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hello! Welcome to Property Investment Point.",
+        "Hi there, how can I assist you with your property needs?",
+        "Hello, how can I help you today?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "Goodbye! Thanks for visiting Property Investment Point.",
+        "See you later. Feel free to contact us anytime.",
+        "Bye! Looking forward to helping you again."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks a lot!"],
+      "responses": [
+        "You're welcome! Happy to assist you.",
+        "Anytime! Let us know if you need further assistance.",
+        "My pleasure! Don't hesitate to reach out again."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How can I contact you?",
+        "What's your contact number?",
+        "Can I contact you on Whatsapp?",
+        "How do I get in touch?"
+      ],
+      "responses": [
+        "You can contact Ghufran Ahmed on Whatsapp at 03452519090.",
+        "Feel free to reach out to us on Whatsapp at 03452519090.",
+        "You can contact us on Whatsapp or visit our website for more details."
+      ]
+    },
+    {
+      "tag": "listings",
+      "patterns": [
+        "What properties do you have?",
+        "Can I see your property listings?",
+        "Show me available properties",
+        "What listings are available?"
+      ],
+      "responses": [
+        "You can view all our listings on our website.",
+        "Visit our website to see the available properties in Hawksbay, Surjani, and LDA Schemes.",
+        "Our property listings are available on our website. Feel free to browse through them."
+      ]
+    },
+    {
+      "tag": "locations",
+      "patterns": [
+        "Where do you deal?",
+        "Which areas do you cover?",
+        "What locations do you work in?",
+        "Which places are your properties located in?"
+      ],
+      "responses": [
+        "We mainly deal in Hawksbay, Surjani, and LDA Schemes.",
+        "Our properties are primarily located in Hawksbay, Surjani, and LDA Schemes.",
+        "We cover areas such as Hawksbay, Surjani, and LDA Schemes."
+      ]
+    },
+    {
+      "tag": "experience",
+      "patterns": [
+        "How much experience do you have?",
+        "How long have you been in this business?",
+        "Tell me about your experience",
+        "What is your experience in real estate?"
+      ],
+      "responses": [
+        "Property Investment Point has over 30 years of experience in the real estate industry.",
+        "We have been in the real estate business for more than 30 years.",
+        "With 30 years of experience, we are well-equipped to assist you with your property needs."
+      ]
+    },
+    {
+      "tag": "payment",
+      "patterns": [
+        "How can I pay?",
+        "What are the payment methods?",
+        "Do you accept cheques?",
+        "Is cash payment accepted?"
+      ],
+      "responses": [
+        "We mostly accept payments through cash or cheques/pay orders.",
+        "You can pay via cash or cheques/pay orders.",
+        "Our accepted payment methods are cash and cheques/pay orders."
+      ]
+    },
+    {
+      "tag": "buy_property",
+      "patterns": [
+        "I want to buy a property",
+        "How can I buy a plot?",
+        "Can I buy a land from you?",
+        "How do I purchase a property?"
+      ],
+      "responses": [
+        "To buy a property, please browse our listings on the website and contact us on Whatsapp at 03452519090 if you find something you like.",
+        "You can contact Ghufran Ahmed on Whatsapp at 03452519090 for purchasing a property.",
+        "Browse through our listings and reach out to us on Whatsapp for further assistance."
+      ]
+    },
+    {
+      "tag": "buying_process",
+      "patterns": [
+        "What is the buying process?",
+        "How do I buy a plot?",
+        "What are the steps to buy a property?",
+        "Tell me about the buying process"
+      ],
+      "responses": [
+        "The buying process involves an agreement between the two parties, followed by a visit to the Land Department for the transfer process. The payment is made during this process.",
+        "Firstly, we agree on the terms, then visit the Land Department for the transfer process where the payment is made.",
+        "The process includes an agreement, a visit to the Land Department for transfer, and payment during the process."
+      ]
+    },
+    {
+      "tag": "unknown",
+      "patterns": [
+        "I have a different question",
+        "Can you help with something else?",
+        "I need more information",
+        "This is not related to properties"
+      ],
+      "responses": [
+        "Please contact us on our Facebook Page or Whatsapp for further details.",
+        "For more information, please reach out on our Facebook Page or Whatsapp.",
+        "Kindly contact us on Facebook Page or Whatsapp for more details."
+      ]
+    }
+  ]
+}
